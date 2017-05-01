@@ -1,4 +1,4 @@
-# Install opencv 3.1.0 for Ubuntu 14.04 and python 2.7
+# Install opencv 3.0.0 for Ubuntu 14.04 and python 2.7
 
 
 ### General install article
@@ -32,5 +32,5 @@ find / -name “cv2.so”
 ### [extra]
 #### 1, install CUDA in Ubuntu 14.04:
 Clean all installed Nvidia library 
-Please don’t use apt-get install …., but download correct driver/library from Nvidia website
+Please don’t use apt-get install …., but download correct driver/library directly from Nvidia website
 * https://askubuntu.com/questions/451672/installing-and-testing-cuda-in-ubuntu-14-04
