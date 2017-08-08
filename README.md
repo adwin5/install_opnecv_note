@@ -27,7 +27,8 @@ And find where it is by
 ```
 find / -name “cv2.so”
 ```
-
+#### 4, cannot find cv2.so even successful make:
+check your $PYTHONPATH by command export and double check the ouput of Cmake if numpy is readed properly
 
 ### [extra]
 #### 1, install CUDA in Ubuntu 14.04:
